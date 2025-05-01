@@ -1,0 +1,12 @@
+{
+  "symbols": ["BTC/USDT", "ETH/USDT"],
+  "investment_amount": 20,
+  "rsi_buy_threshold": 30,
+  "stop_loss_pct": 0.98,
+  "take_profit_pct": 1.04,
+  "timeframe": "5m",
+  "sleep_time": 60,
+  "test_mode": true,
+  "telegram_bot_token": "DEIN_BOT_TOKEN",
+  "telegram_chat_id": "DEIN_CHAT_ID"
+}
