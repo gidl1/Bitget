@@ -1,4 +1,23 @@
-.env
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 *.log
+
+# Env-Dateien (sensibel)
+.env
+
+# IDEs/Editoren
+.vscode/
+.idea/
+*.swp
+
+# Jupyter & Streamlit
+.ipynb_checkpoints/
+.streamlit/
+
+# OS-spezifisch
+.DS_Store
+Thumbs.db
+
